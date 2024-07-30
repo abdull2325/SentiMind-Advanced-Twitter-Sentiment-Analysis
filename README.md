@@ -15,10 +15,7 @@ Welcome to SentiMind, a sophisticated sentiment analysis tool designed to decode
 1. Clone this repository
 2. Install required packages
 3. Download NLTK data:
-```python
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')```
+
 
 ##Visualisation
 SentiMind generates several insightful visualizations:
