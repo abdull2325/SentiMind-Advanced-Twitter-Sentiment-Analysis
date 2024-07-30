@@ -18,8 +18,7 @@ Welcome to SentiMind, a sophisticated sentiment analysis tool designed to decode
 ```python
 import nltk
 nltk.download('punkt')
-nltk.download('stopwords')
-
+nltk.download('stopwords')```
 
 ##Visualisation
 SentiMind generates several insightful visualizations:
