@@ -19,6 +19,9 @@ Welcome to SentiMind, a sophisticated sentiment analysis tool designed to decode
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
+
+
+##Visualisation
 SentiMind generates several insightful visualizations:
 - Sentiment Distribution
 - Word Clouds for Positive and Negative Sentiments
